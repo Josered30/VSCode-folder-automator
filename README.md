@@ -104,10 +104,7 @@ The nfe command creates a folder/file in the parent folder of the script
             <td>3</td>
             <td>Extension name</td>
         </tr>
-        <tr>
-            <td>4</td>
-            <td>Open option</td>
-        </tr>
+
     </table>
 </html>
 

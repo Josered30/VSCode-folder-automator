@@ -49,7 +49,7 @@ The ne command creates a file in the General folder
     </table>
 </html>
 
->Example: note.py ne text txt d
+>Example: note.py ne text txt 
 
                 
     

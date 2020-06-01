@@ -5,6 +5,8 @@ This is a script to create folders/filters and open them in VS Code
 
 ## How to use it
 
+Add the "note.py" script to the path variable
+
 There are 3 commands: ne, on and nfe:
 - ne -> Note name and extension
 - on -> Open note
